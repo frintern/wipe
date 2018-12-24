@@ -8,6 +8,6 @@ It is made up of:
 * Tools to improve the waste disposal experience like WasteUp; uber for waste pick-up, and Scrap Bank a virtual reuse/scrap exchange site.
 * Waste management accessories like waste smell reduction bins, waste sorting bins and DIY bio-digesters
 
-For information on how the platform was conceptualised, see the project wiki for the research notes. 
+For information on how the platform was conceptualised, see the [project wiki](https://github.com/frintern/wipe/wiki) for the research notes. 
 
-Work on the project is currently ongoing, see the project board and peoject issues for the progress on the project and Its road map.
+Work on the project is currently ongoing, see the [project board](https://github.com/frintern/wipe/projects) and [project issues](https://github.com/frintern/wipe/issues) for the progress on the project and Its road map.
