@@ -10,4 +10,4 @@ It is made up of:
 
 For information on how the platform was conceptualised, see the [project wiki](https://github.com/frintern/wipe/wiki) for the research notes. 
 
-Work on the project is currently ongoing, see the [project board](https://github.com/orgs/frintern/projects/1) for the progress on the project and Its road map.
+Work on the project is currently ongoing, see the [project board](https://github.com/frintern/wipe/projects) and [project issues](https://github.com/frintern/wipe/issues) for the progress on the project and Its road map.
